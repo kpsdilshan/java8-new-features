@@ -1,0 +1,2 @@
+java8newfeatures.Interface1
+java8newfeatures.I2
